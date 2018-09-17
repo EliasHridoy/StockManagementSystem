@@ -1,0 +1,17 @@
+﻿body {
+}
+
+
+
+.maindiv {
+    /*background: #90cf93;
+    background: rgba(144, 207, 147, 0.8);*/
+    background: rgba(10, 99, 104, 0.8);
+  padding: 40px;
+  max-width: 600px;
+  margin: 40px auto;
+  border-radius: 30px;
+
+    box-shadow: 0 5px 20px 4px #979a98;
+    box-shadow: 0 5px 20px 4px rgba(151, 154, 152, 0.88);
+}
